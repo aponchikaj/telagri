@@ -1,0 +1,291 @@
+{
+    "navbar": {
+        "home": "Home",
+        "solutions": "Solutions",
+        "about": "About us",
+        "news": "News",
+        "contact": "Contact"
+    },
+    "footer": {
+        "rightsReserved": "All rights reserved.",
+        "followUs": "Follow us",
+        "pages": "Pages",
+        "tagline": "Enabling every agricultural decision to be driven by reliable data"
+    },
+    "hero": {
+        "titleStart": "Enabling every agricultural decision to be driven by",
+        "titleHighlight": "reliable data",
+        "tagline": "Telagri turns agricultural data into credible insights for everyone involved in agriculture - from farms to finance",
+        "cta1": "Explore Solutions",
+        "cta2": "Get in Touch",
+        "stats": {
+            "farms": {
+                "value": "12,400+",
+                "label": "Farms Monitored"
+            },
+            "dataPoints": {
+                "value": "2.1M+",
+                "label": "Data Points Daily"
+            },
+            "countries": {
+                "value": "6",
+                "label": "Countries Active"
+            }
+        }
+    },
+    "solutions_overview": {
+        "title": "Telagri transforms agricultural data into tailored solutions for different stakeholders across the value chain.",
+        "card1": {
+            "title": "For Financial Institutions",
+            "tagline": "De-Risking Agricultural Lending in Emerging Markets",
+            "cta": "Explore Lending Solutions"
+        },
+        "card2": {
+            "title": "For Agricultural Value Chain",
+            "tagline": "Data-driven Agricultural Decisions",
+            "cta": "Explore Data Analytics"
+        },
+        "card3": {
+            "title": "For Farmers & Agronomists",
+            "tagline": "Telemedicine for Agriculture",
+            "cta": "Explore the Marketplace"
+        }
+    },
+    "social_proof": {
+        "headline": "Trusted by leading organizations across the agricultural ecosystem"
+    },
+    "final_cta": {
+        "tagline": "The future of agriculture runs on data.",
+        "description": "Join the organizations already building data-driven agriculture with Telagri.",
+        "button": "Explore our Solutions"
+    },
+    "solutions_hero": {
+        "titleStart": "Telagri Solutions for",
+        "titleHighlight": "Data-Driven Agriculture",
+        "tagline": "Built to reduce risks, boost yields, and deliver clarity to agriculture.",
+        "pillars": {
+            "fin": {
+                "title": "For Financial Institutions",
+                "sub": "Evaluate farm performance remotely and make faster, more confident lending decisions."
+            },
+            "agri": {
+                "title": "For Agri Value Chain",
+                "sub": "Understand production trends, manage risks, and design better services for farmers."
+            },
+            "farmer": {
+                "title": "For Farmers & Agronomists",
+                "sub": "Get direct access to expert agronomists and make better decisions on time."
+            }
+        },
+        "stats": {
+            "satellite": {
+                "value": "Satellite",
+                "label": "Remote sensing & crop monitoring"
+            },
+            "realtime": {
+                "value": "Real-time",
+                "label": "Live farm-level data & alerts"
+            },
+            "countries": {
+                "value": "6+",
+                "label": "Countries across emerging markets"
+            }
+        }
+    },
+    "solution_finance": {
+        "title": "For Financial Institutions",
+        "description": "By analyzing satellite, climate, and crop data through proprietary algorithms, we enable banks to evaluate farm performance remotely-reducing costs, increasing speed, and unlocking scalable agricultural lending.",
+        "cards": {
+            "sell": {
+                "title": "Sell More, Proactively",
+                "body": "Telagri pinpoints the best-performing farms in any area-enabling proactive, data-driven outreach."
+            },
+            "lend": {
+                "title": "Make Better Lending Decisions",
+                "body": "Strengthen your underwriting process with objective, farm-level analytics. Telagri evaluates farm performance, productivity, and potential remotely-helping you assess risk more accurately and make faster, more confident lending decisions."
+            },
+            "risk": {
+                "title": "Stay Ahead of Risk",
+                "body": "Monitor your entire agricultural portfolio in real time. Telagri provides continuous insights, early-warning signals, and performance tracking-so you can detect risks early, understand portfolio dynamics, and act before issues escalate."
+            }
+        },
+        "cta_text": "Ready to see how Telagri can work for your institution?",
+        "cta": "Book a Demo"
+    },
+    "solution_agri": {
+        "title": "For Agri Value Chain",
+        "description": "Telagri collects and structures farm-level agricultural data that powers better decisions across the entire agricultural ecosystem. Traders, insurers, input suppliers, governments, and international organizations use Telagri data to understand production trends, manage risks, and design better services for farmers.",
+        "items": {
+            "traders": {
+                "title": "Traders & Input Suppliers - Source and sell smarter",
+                "body": "Identify high-producing regions, predict yields, and target farmers with the right products at the right time."
+            },
+            "governments": {
+                "title": "Governments & NGOs - Monitor and allocate effectively",
+                "body": "Track production, measure impact, and direct subsidies or programs where they actually matter."
+            },
+            "chain": {
+                "title": "Across the Value Chain - Act on real, live data",
+                "body": "Replace guesswork with continuous, farm-level insights to make faster, better decisions."
+            }
+        },
+        "cta_text": "Want to see how Telagri data can power your decisions?",
+        "cta": "Book a Demo"
+    },
+    "solution_farmers": {
+        "title": "For Farmers & Agronomists",
+        "description": "Telagri's marketplace gives farmers direct access to experienced agronomists who provide timely, practical advice on crop health and farm management. With expert guidance available when it's needed most, farmers can make better decisions and improve the performance of their farms.",
+        "items": {
+            "farmers": {
+                "title": "Farmers - Make better decisions, on time",
+                "body": "Get direct access to experienced agronomists and receive practical advice when it matters most-improving crop health, yields, and day-to-day farm management."
+            },
+            "agronomists": {
+                "title": "Agronomists - Monetize expertise at scale",
+                "body": "Connect with more farmers, provide remote consultations, and turn knowledge into a scalable, consistent income stream."
+            }
+        },
+        "cta_text": "Ready to connect with the right expertise for your farm?",
+        "cta": "Sign Up"
+    },
+    "solutions_closing": {
+        "title": "Ready to Build Smarter Agriculture?",
+        "description": "Whether you're a financial institution, agribusiness, or agricultural expert, Telagri provides the tools and insights to make better decisions across the farming ecosystem.",
+        "cta": "Book a Demo"
+    },
+    "about_hero": {
+        "title": "Meet the team building the data infrastructure for agriculture",
+        "tagline": "We combine agricultural expertise with deep technology experience to make farm-level intelligence accessible to everyone.",
+        "placeholder": "Team photo coming soon",
+        "stats": {
+            "stat1": {
+                "value": "15+",
+                "label": "Years of experience"
+            },
+            "stat2": {
+                "value": "6",
+                "label": "Countries active"
+            },
+            "stat3": {
+                "value": "3",
+                "label": "Core solutions"
+            }
+        }
+    },
+    "about_vision": {
+        "tagline": "A Future Where Every Agricultural Decision Is Data-Driven",
+        "description": "We believe that better data leads to better decisions. By making agricultural intelligence accessible and actionable, Telagri aims to unlock safer lending, stronger farms, and more resilient food systems worldwide.",
+        "headline": "Our Vision"
+    },
+    "about_story": {
+        "headline": "Our Story",
+        "p1": "Telagri was born out of more than 15 years of hands-on experience in agricultural management and consulting. Working across large-scale projects in the Caucasus, one insight became impossible to ignore:",
+        "quote": "Agriculture is one of the largest industries in the world—yet many critical decisions are still made without reliable data.",
+        "p2": "That realization became the foundation for Telagri.",
+        "p3": "To solve it, agricultural expertise was combined with deep technology experience—bringing together knowledge from agronomy, data systems, and remote sensing. What started as an industry insight evolved into a technology-driven approach to understanding and managing agriculture.",
+        "p4": "Today, the team brings together expertise in agriculture, technology, remote sensing, finance, and startup scaling - building the foundation for a more data-driven agricultural ecosystem."
+    },
+    "about_founders": {
+        "title": "Meet the Founders",
+        "valeri": {
+            "name": "Valeri",
+            "lastname": "Amiranashvili",
+            "bio": "20 years of deep agronomic expertise and boots-on-the-ground experience across the Caucasus."
+        },
+        "irakli": {
+            "name": "Irakli",
+            "lastname": "Chikava",
+            "bio": "A serial entrepreneur with 15+ years of experience turning agribusiness insight into scalable strategy, investor trust, and high-impact ventures."
+        },
+        "lasha": {
+            "name": "Lasha",
+            "lastname": "Shonia",
+            "bio": "A technical leader with a decade of experience in cloud infrastructure and DevOps, known for combining engineering excellence with standout team leadership."
+        }
+    },
+    "about_awards": {
+        "headline": "Awards & Recognition",
+        "readMore": "Read more",
+        "items": {
+            "swc": {
+                "label": "Startup World Cup",
+                "title": "Regional Winner representing Georgia at the Global Finals in Silicon Valley",
+                "description": "Selected as the regional winner to represent Georgia on the global stage at the Startup World Cup in Silicon Valley."
+            },
+            "eban": {
+                "label": "EBAN",
+                "title": "Recognized by Europe's leading business angel network",
+                "description": "Acknowledged by the European Business Angel Network for outstanding startup potential at the EBAN 2023 Congress."
+            },
+            "gita": {
+                "label": "GITA",
+                "title": "Historic unanimous investment from GITA's investment committee",
+                "description": "For the first time in GITA's history, all five members of the investment committee invested in Telagri (formerly Agronnect)."
+            }
+        }
+    },
+    "about_careers": {
+        "headline": "Want to help build the future of agriculture?",
+        "description": "We're a small team working on a big problem. If you're passionate about agriculture, data, or technology — and want to work on something that actually matters — we'd love to hear from you.",
+        "tags": {
+            "tag1": "Agriculture",
+            "tag2": "Data & Remote Sensing",
+            "tag3": "Engineering",
+            "tag4": "Finance"
+        },
+        "cta": "Get in Touch"
+    },
+    "news_hero": {
+        "title": "Latest Updates",
+        "tagline": "Stay up to date with Telagri's latest news, partnerships, and milestones.",
+        "follow": "Follow us"
+    },
+    "news_articles": {
+        "readMore": "Read full article"
+    },
+    "news": {
+        "items": {
+            "dressler": {
+                "title": "Dressler Consulting Becomes a Strategic Investor in Telagri",
+                "summary": "The partnership includes an investment in Telagri by Dressler Consulting, long-term advisory involvement by Chris Dressler, and a services collaboration to accelerate Telagri's adoption of advanced data and AI technologies."
+            }
+        }
+    },
+    "contact_hero": {
+        "title": "Get in Touch",
+        "buttons": {
+            "call": "Call Us",
+            "email": "Email Us",
+            "whatsapp": "WhatsApp",
+            "linkedin": "LinkedIn",
+            "facebook": "Facebook"
+        }
+    },
+    "contact_presence": {
+        "headline": "Our Global Presence",
+        "viewMap": "View on map",
+        "offices": {
+            "georgia": {
+                "country": "Georgia",
+                "address": "Gambashidze Shalva St. 4, Tbilisi"
+            },
+            "uzbekistan": {
+                "country": "Uzbekistan",
+                "address": "Tashkent region, Bekabad district, Yangihayot MFY, 903-UY"
+            },
+            "usa": {
+                "country": "USA",
+                "address": "8 McCullough Dr. UNIT B261857 New Castle, DE, 19720"
+            }
+        }
+    },
+    "home_news": {
+        "title": "Latest Updates",
+        "viewAll": "View all news"
+    },
+    "not_found": {
+        "title": "Page not found",
+        "description": "The page you're looking for doesn't exist or has been moved.",
+        "cta": "Back to home"
+    }
+}
